@@ -8,5 +8,5 @@
 - ⚡ Quick Thought: Idea is always available for those who seek
 
 <h2>What I Know</h2>
-***
+<hr>
 List of skillset with moderate to advance skill levels.
