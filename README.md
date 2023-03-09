@@ -8,5 +8,8 @@
 - ⚡ Quick Thought: Idea is always available for those who seek
 
 <h2>What I Know</h2>
-<hr>
+
 List of skillset with moderate to advance skill levels.
+<hr>
+
+<h3><img src="https://img.shields.io/badge/Programming%20Languages%20-lightgrey"></h3>
