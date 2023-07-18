@@ -1,5 +1,6 @@
 ### Hey there, This is Tirthendu
 
+- 💼 Working as an intern at the Product and Technology Division of bKash Limited
 - 🔭 I’m currently working on on my thesis titled "Violence Detection in Surveillance System Using Deep Learning"
 - 🌱 I’m currently learning Node.js, Express.js, MongoDB
 - 📫 Reach me at tirthendu496@gmail.com
