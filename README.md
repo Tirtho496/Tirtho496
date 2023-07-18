@@ -1,6 +1,4 @@
-### Hey there, This is Tirthendu (This repository is under construction)
-
-
+### Hey there, This is Tirthendu
 
 - 🔭 I’m currently working on on my thesis titled "Violence Detection in Surveillance System Using Deep Learning"
 - 🌱 I’m currently learning Node.js, Express.js, MongoDB
