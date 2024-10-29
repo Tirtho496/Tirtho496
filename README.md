@@ -1,14 +1,15 @@
 ### Hey there, This is Tirthendu
 
-- 💼 Working as an intern at the Product and Technology Division of bKash Limited
-- 🔭 I’m currently working on on my thesis titled "Violence Detection in Surveillance System Using Deep Learning"
-- 🌱 I’m currently learning Node.js, Express.js, MongoDB
+- 💼 Studying as a master's student in Engineering of Data-intensive Intelligent Software Systems at Abo Akademi University Finland
+- 🔭 I’m currently working on my research project on Artificial intelligence and aquaphotomics for real-time measurements of hydroponic
+  solution for optimization of urban farms 
+- 🌱 I’m currently learning AWS
 - 📫 Reach me at tirthendu496@gmail.com
 - ⚡ Quick Thought: Idea is always available for those who seek
 
 <h2>What I Know</h2>
 
-List of skillset with moderate to advance skill levels.
+List of skillsets with moderate to advanced skill levels.
 <hr>
 
 <h3><img height="20px" src="https://img.shields.io/badge/Programming_Languages-grey"></h3>
