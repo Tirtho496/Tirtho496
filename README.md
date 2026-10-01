@@ -1,77 +1,104 @@
-### Hey there, This is Tirthendu
+# Hi, I'm Tirthendu Chakravorty
 
-- 💼 Studying as a master's student in Engineering of Data-intensive Intelligent Software Systems at Abo Akademi University Finland
-- 🔭 I’m currently working on my research project on Artificial intelligence and aquaphotomics for real-time measurements of hydroponic
-  solution for optimization of urban farms 
-- 🌱 I’m currently learning AWS
-- 📫 Reach me at tirthendu496@gmail.com
-- ⚡ Quick Thought: Idea is always available for those who seek
+Machine Learning & Software Systems Engineer based in Finland, with experience across deep learning, GPU performance optimisation, GenAI/RAG, multimodal learning, and ML systems engineering.
 
-<h2>What I Know</h2>
+I currently interning at Nokia, where I focus on profiling and optimising deep-learning training workloads and ML pipelines. My background also includes agentic RAG systems, multimodal retrieval, model evaluation, web/API development, and cloud-native ML infrastructure.
 
-List of skillsets with moderate to advanced skill levels.
-<hr>
+I hold an Erasmus Mundus Joint Master's in Computer Engineering through the EDISS programme, with studies at Åbo Akademi University and Mälardalen University.
 
-<h3><img height="20px" src="https://img.shields.io/badge/Programming_Languages-grey"></h3>
+## Areas I Work In
 
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><span>
-<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><span>
-<span><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><span>
-<span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><span>
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><span>
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><span>
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><span>
-<span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><span>
+- Machine Learning & Deep Learning
+- GenAI, RAG & Agentic Systems
+- GPU Training & Performance Optimisation
+- Computer Vision & Multimodal AI
+- Retrieval & Search Systems
+- ML Evaluation & MLOps
+- Software & API Development
 
-<hr>
+## Tech Stack
 
-<h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
+### Languages
 
-<span><img src="https://img.shields.io/badge/Laravel-4d94ff?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></span>
-<span><img src="https://img.shields.io/badge/Django-193366?style=for-the-badge&logo=django&logoColor=white" alt="django"/></span>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-<hr>
+### AI / ML
 
-<h3><img height="20px" src="https://img.shields.io/badge/Databases%20-0a0a29"></h3>
-<span><img src="https://img.shields.io/badge/MongoDB-009900?style=for-the-badge&logo=mongodb&logoColor=white"><span>
-<span><img src="https://img.shields.io/badge/MySQL-262673?style=for-the-badge&logo=mysql&logoColor=white"><span>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<hr>
+**Focus:** Deep Learning, Vision-Language Models, Agentic RAG, Embeddings, Multimodal Retrieval, Model Evaluation, GPU Performance
 
-<h3><img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
+### Software & Web
 
-<span><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></span>
-<span><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/></span>
-<span><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></span>
-<span><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="OpenGL"/></span>
-<span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow"/></span>
-<span><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/></span>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
+**Experience with:** REST APIs, authentication, session management, asynchronous workflows, testing, secure web development
 
-<hr>
-<h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
+### Data & Search
 
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></span>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
 
-<hr>
-<h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
+**Also:** pgvector, Milvus, Neo4j
 
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></span>
-<span><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></span>
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></span>
-<span><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Virtual Box"/></span>
-<hr>
+### MLOps & Infrastructure
 
-<h3><img height="20px" src="https://img.shields.io/badge/OS-4DAF1C"/></h3>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-<span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></span>
-<span><img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=blue" alt="Kali"/></span>
-<hr>
-<h3 align="center"> Connect with Me at </h3>
+**Also:** MLflow, Kubeflow
 
-<p align="center">
-<a href="mailto:tirthendu496@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tirthendu496@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-ApnarAbba-7289da?style=flat&logo=discord"></a>
-<a href="https://www.linkedin.com/in/tirthendu-prosad-chakravorty-9673411ab"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tirthendu Chakravorty-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.facebook.com/tirthendu.chakravorty.7"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tirthendu Chakravorty-blue?style=flat&logo=facebook"></a>
-<a href="https://instagram.com/__tirtho?igshid=MzNlNGNkZWQ4Mg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__tirtho-f2003c?style=flat&logo=instagram"></a>
+## Selected Work
+
+### GPU Training Performance Optimisation
+Profiled and optimised PyTorch training workloads for 5G channel-estimation models, improving effective training throughput by 65% and reducing wall-clock time by up to 40%.
+
+### Agentic Multimodal RAG
+Designed a stateful RAG system for reasoning over long technical documents, combining hierarchical ingestion, retrieval, ranking, evidence handling, and LLM generation.
+
+### Hybrid Multimodal Asset Search
+Built a CLIP-LLM hybrid retrieval system combining dense multimodal embeddings with structured search and natural-language query interpretation.
+
+### JobRadar
+Full-stack job discovery platform built with React, TypeScript, FastAPI, PostgreSQL/pgvector, asynchronous ingestion, testing, and CI workflows.
+
+## Research
+
+Author/co-author of 3 IEEE conference papers covering:
+
+- Multimodal 3D asset retrieval
+- Deep-learning-based violence detection
+- Interpretable spatio-temporal modelling
+
+Most recent:
+
+**Hybrid 3D Asset Retrieval via Contrastive Vision-Language Matching and Structured Prompt Parsing**  
+IEEE Conference on Artificial Intelligence, 2026
+
+## Currently Interested In
+
+- Production ML and AI systems
+- AI/ML performance engineering
+- Agentic AI and retrieval systems
+- Multimodal and vision-language models
+- Software engineering for AI products
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tirtho496-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tirtho496)
+[![Email](https://img.shields.io/badge/Email-tirthendu496%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tirthendu496@gmail.com)
